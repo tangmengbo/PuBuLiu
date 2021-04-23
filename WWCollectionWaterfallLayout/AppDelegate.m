@@ -7,7 +7,6 @@
 //
 
 #import "AppDelegate.h"
-#import "CollectionViewController.h"
 #import "PuBuLiuCollectionViewController.h"
 #import "NormalCollectionViewController.h"
 

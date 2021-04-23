@@ -18,7 +18,6 @@
 		355182821E49CEE7007F4477 /* WFHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3551827E1E49CEE7007F4477 /* WFHeaderView.m */; };
 		355182831E49CEE7007F4477 /* WFHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3551827F1E49CEE7007F4477 /* WFHeaderView.xib */; };
 		357505881E288580000E62EA /* CollectionWaterfallLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 357505871E288580000E62EA /* CollectionWaterfallLayout.m */; };
-		FA1B08F826325A54005061A0 /* CollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA1B08F726325A54005061A0 /* CollectionViewController.m */; };
 		FA1B08FE26326064005061A0 /* PuBuLiuLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = FA1B08FD26326064005061A0 /* PuBuLiuLayout.m */; };
 		FA1B09042632787E005061A0 /* CollectionHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA1B09032632787E005061A0 /* CollectionHeaderView.m */; };
 		FA1B090D26329FB5005061A0 /* PuBuLiuCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA1B090C26329FB5005061A0 /* PuBuLiuCollectionViewController.m */; };
@@ -65,8 +64,6 @@
 		3551827F1E49CEE7007F4477 /* WFHeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WFHeaderView.xib; sourceTree = "<group>"; };
 		357505861E288580000E62EA /* CollectionWaterfallLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionWaterfallLayout.h; sourceTree = "<group>"; };
 		357505871E288580000E62EA /* CollectionWaterfallLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionWaterfallLayout.m; sourceTree = "<group>"; };
-		FA1B08F626325A54005061A0 /* CollectionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CollectionViewController.h; sourceTree = "<group>"; };
-		FA1B08F726325A54005061A0 /* CollectionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CollectionViewController.m; sourceTree = "<group>"; };
 		FA1B08FC26326064005061A0 /* PuBuLiuLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PuBuLiuLayout.h; sourceTree = "<group>"; };
 		FA1B08FD26326064005061A0 /* PuBuLiuLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PuBuLiuLayout.m; sourceTree = "<group>"; };
 		FA1B09022632787E005061A0 /* CollectionHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CollectionHeaderView.h; sourceTree = "<group>"; };
@@ -133,8 +130,6 @@
 				351D88C51E288490004FEBD6 /* AppDelegate.m */,
 				351D88C71E288490004FEBD6 /* ViewController.h */,
 				351D88C81E288490004FEBD6 /* ViewController.m */,
-				FA1B08F626325A54005061A0 /* CollectionViewController.h */,
-				FA1B08F726325A54005061A0 /* CollectionViewController.m */,
 				3551827D1E49CEE7007F4477 /* WFHeaderView.h */,
 				3551827E1E49CEE7007F4477 /* WFHeaderView.m */,
 				3551827F1E49CEE7007F4477 /* WFHeaderView.xib */,
@@ -341,7 +336,6 @@
 				FA1B09042632787E005061A0 /* CollectionHeaderView.m in Sources */,
 				FA1B090D26329FB5005061A0 /* PuBuLiuCollectionViewController.m in Sources */,
 				351D88C61E288490004FEBD6 /* AppDelegate.m in Sources */,
-				FA1B08F826325A54005061A0 /* CollectionViewController.m in Sources */,
 				FA1B09162632A66F005061A0 /* NormalCollectionViewCell.m in Sources */,
 				FA1B08FE26326064005061A0 /* PuBuLiuLayout.m in Sources */,
 				357505881E288580000E62EA /* CollectionWaterfallLayout.m in Sources */,
